@@ -1,3 +1,9 @@
+/*******
+NAME=JARTHA CHINNA REDDY
+ID NO=O230093
+SECTION=CSE-C
+PROJECT NAME=VILAGE SURVEY MANAGEMENT SYSTEM 
+*******/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -292,4 +298,5 @@ void deleteRecord() {
     else
         printf("Record not found.\n");
 }
+
 
