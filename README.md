@@ -5,6 +5,8 @@ This project demonstrates **CRUD operations (Create, Read, Update, Delete)** and
 
 ---
 
+you can run in your own browser and can test it with https://onlinegdb.com/WKvMH6OHgN
+
 ## 🧰 Features
 
 - ➕ Add new villager records (with unique ID check)
@@ -12,10 +14,6 @@ This project demonstrates **CRUD operations (Create, Read, Update, Delete)** and
 - 🔍 Search for a villager by ID
 - ✏️ Update existing records
 - ❌ Delete records
-- 📊 View village statistics:
-  - Total population
-  - Literacy rate
-  - Average income
 
 ---
 
@@ -25,9 +23,3 @@ This project demonstrates **CRUD operations (Create, Read, Update, Delete)** and
 - **Compiler:** GCC / Code::Blocks / Dev-C++
 
 ---
-
-## ⚙️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/village-survey-system.git
